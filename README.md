@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rvp18,Rahul Patil
 - 👀 I’m interested in Java Projects for learing and expirience.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on GSOC
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on GSOC.
 - 📫 How to reach me rahulvpatil2003@gmail.com
 
 <!---
